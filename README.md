@@ -1,5 +1,5 @@
 #opencv
-opencv bilgisayarda görme, renk algılama, resimler üzerinde işlem yapmaya yarayan bir çok dilde kullanılan ve içinde kütüphaneler(class halinde) pakettir.
+opencv bilgisayarda görme, renk algılama, resimler üzerinde işlem yapmaya yarayan bir çok dilde kullanılan ve içinde kütüphaneler(class halinde) bulunan pakettir.
 
 Python dili üzerinde cv2 kütüphanesini kullanarak işlemlerimiz yapılacak.
 
