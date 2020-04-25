@@ -10,7 +10,7 @@ pycharm kurulum : "File > settings > Project > Project Interpreter "  daha sonra
 
 Karşımızda çıkan listeden "opencv-python" bulup install package diyoruz ve paket kurulumu tamam.
 
-Varsayılan olarak : C:\Users\Username\AppData\Local\Programs\Python\Python38-32\Lib\site-packages klasörüne kurduğunuz paketler yüklenicektir.
+Varsayılan olarak : C:\Users\Username\AppData\Local\Programs\Python\Python38-32\Lib\site-packages klasörüne, kurduğunuz paketler yüklenicektir.
 
 Bu depoda yapılacak olanlar, başlangıçtan gelebildiğim noktaya kadar olan paylaşımlardır . paylaşımlar depoda .py uzantılı dosyalar ve o dosyalarda olanları başlıklarına yazıcam.
 
