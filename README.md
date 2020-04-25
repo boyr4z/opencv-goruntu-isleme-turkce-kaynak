@@ -14,3 +14,4 @@ Varsayılan olarak : C:\Users\Username\AppData\Local\Programs\Python\Python38-32
 
 Bu depoda yapılacak olanlar, başlangıçtan gelebildiğim noktaya kadar olan paylaşımlardır . paylaşımlar depoda .py uzantılı dosyalar ve o dosyalarda olanları başlıklarına yazıcam.
 
+video ile ilgili dosyalarda video yolu yerine kendi videonuzun yolunu belirtiniz
